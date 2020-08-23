@@ -13,7 +13,7 @@
 2. Tweets
     -> Creating
         -> Text
-        -> Image
+        -> Image -> Media  Storage server
     -> Delete
     ->Retweeting
 
